@@ -1,0 +1,30 @@
+body{
+    color: black;
+    background-color: dodgerblue;
+    font-family: sans-serif;
+}
+span {
+    color: red;
+    font-family: "Comic Sans", cursive;
+}
+
+h1{
+    text-align: right;
+}
+
+strong {
+    color: gold;
+}
+
+em {
+    background-color: papayawhip;
+    color: green;
+}
+
+time {
+    color: orange;
+}
+
+footer{
+    text-align: center;
+}
